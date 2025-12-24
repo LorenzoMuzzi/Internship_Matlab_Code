@@ -4,7 +4,7 @@ This program runs several combinations of factors and compare them, based on the
 
 ## Content
 - The code is composed by 5 sections:
-    Initialization - we upload the starting dataframe from an excel file with all the useful data
+    -  Initialization - we upload the starting dataframe from an excel file with all the useful data
     1. In this section the main vectors of the code are defined. The user has to fill up some inputs (such as the number of days he wants in the vectors and the
        R squared target). The vector ENPACL represents our y vector of the linear regression.
     2. This section is a control section, it looks for NaN values inside the vectors and assures that there's none
